@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Four Converter</string>
+    <string name="select">Select unit</string>
+    <string-array name="weight_units">
+        <item>Select unit</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+    <string-array name="height_units">
+        <item>Select unit</item>
+        <item>Feet</item>
+        <item>Inches</item>
+        <item>Centimeters</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Kilometers</item>
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+        <item>Feet</item>
+        <item>Inches</item>
+    </string-array>
+
+    <string-array name="weight_Units">
+        <item>Kilograms</item>
+        <item>Grams</item>
+        <item>Pounds</item>
+        <item>Ounces</item>
+    </string-array>
+
+
+</resources>
